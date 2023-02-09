@@ -1,0 +1,58 @@
+---
+title: 'Sujet : Qu’est-ce qu’un NFT et sa place dans le monde de l’art '
+author: "écrit par Anaïs Joubert"
+date: "Dernière modification le `r format(Sys.time(), '%d %B, %Y')`"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+    number_sections: true
+    
+  html_document:
+    code_folding: hide
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+    toc_float:
+      collapsed: yes
+      smooth_scroll: yes
+bibliography: BibliographieOPEN.bib
+
+
+---
+
+\newpage
+
+
+## Qu’est-ce qu’un NFT ? 
+
+Depuis plusieurs années, les innovations numériques ne cessent de prendre de plus en plus de place dans notre société. Après la popularisation des crypto monnaies qui sont des monnaies numériques, comme le bitcoin ou encore l’Ethereum et qui sont vu par certains comme un investissement d’avenir, un acronyme NFT gagne en popularité. **NFT signifie Non-Fugible Token** en anglais, qui se traduit jeton non fongible ou non échangeable en français. **Un NFT est donc un jeton virtuel souvent associé à une œuvre d’art ou à tout autre média numérique**. C’est un certificat numérique d’authenticité unique et non interchangeable. Les crypto monnaies ainsi que les NFT sont basées sur la technologie de la blockchain.  La blockchain est une base de données qui permet le stockage et la transmission d’information. Elle ne dépend d’aucun organe central ce qui permet d’être sécurisé et elle est rapide car elle partagée simultanément avec tous les utilisateurs.[@noauthor_quest-ce_nodate] Les NFT sont apparus en 2021, c’est-à-dire, il y a environ 2 ans et ils ont bousculé le monde de l’art.
+
+## Pourquoi investir dans les NFT ?
+
+En seulement quelques semaines d’existence les NFT ont créé un réel engouement. Tout d’abord il faut souligner que les transactions de NFT sont réalisées en Ethereum. L’Ethereum est la deuxième blockchain la plus importante après le bitcoin. Il s’agit d’une blockchain basse énergie, ce qui rend l’utilisation négligeable l’impact des NFT sur l’environnement. **L’Ethereum possède un réseau hautement sécurisé ce qui permet d’avoir des transferts sans risque pour l’acheteur.** La corrélation entre les deux engendre le fait que si la crypto monnaie Ethereum voit la valeur de ses jetons augmenter alors la valeur du NFT va aussi augmenter [@noauthor_jetons_nodate]. Un NFT permet de reproduire les propriétés physiques d’un objet physique comme la rareté, l’authenticité et la preuve de la propriété. Dans un NFT en plus d’avoir le certificat d’authenticité de l’œuvre mais elle contient aussi le nom de l’artiste, la date de la vente de l’œuvre, son prix ainsi que le nom de l’acheteur. Toutes ces données sont chiffrées avec un codage complexe qui les rend infalsifiable. 
+
+Ce marché a connu une explosion dès sa sortie, en à peine 1 an, **il s’est échangé pour 17 milliards de dollars de NFT.**  Les NFT sont présentées comme un investissement sûr pour l’avenir et qui est attractif. En effet, il est possible de gagner beaucoup d’argent et rapidement. Les NFT atteignent des sommes très importantes et qui se vendent plus cher que certaines œuvres d’art physique. La NFT la plus chère s’est vendu pour la somme de 91 806 519 dollars, début décembre 2021. Bien qu’un NFT soit unique, il est possible qu’il soit vendu à plusieurs personnes sous forme de puzzle, c’est le cas de cette œuvre qui se divisent en 29 000 acquéreurs. La somme de plus de 91 millions de dollars a donc été divisée en 29 000 parts. Il s’agit de l’œuvre the Merge qui est une photo partagée en pièce de puzzle. Le NFT, unique cette fois-ci, le plus cher jamais vendu est un assemblage de photo appelé Everyday : The First Thousand Days aussi connu sous le nom de Beeple, vendu 63,3 millions de dollars [@noauthor_comprendre_nodate]. Lorsqu’on entend des sommes pareilles, bons nombres d’acquéreurs veulent aussi tenter leur chance sur ce nouveau marché en pleine expansion.
+
+Les NFT ne sont pas seulement présents dans le monde de l’art, l’objectif de ce jeton est de fournir un certificat d’authenticité, **il peut donc aussi être utilisé dans de nombreux domaines.**  Les NFT sont notamment déjà beaucoup utilisées dans les jeux vidéo, les joueurs peuvent acheter des équipements et des éléments de personnalisation uniques dans les jeux. Sur le long terme, les NFT pourraient aussi être utilisées comme certificat d’authenticité sur des produits physiques rares. De plus, ce jeton est d’une grande fiabilité, leur codage complexe rend leur piratage quasiment impossible. Les transactions sont elles aussi fiables, pour acheter ou vendre un NFT, il faut passer par un site spécialisé comme **CryptoPunk ou OpenSea.** Ces sites sont des systèmes décentralisés qui créent des relations directes entre le vendeur et l’acheteur. 
+
+
+## Les NFT et le monde des œuvres d’art
+
+Tout le monde peut vendre ses photographies ou encore ses dessins sur le marché des NFT, ce qui permet à de jeunes artistes de se faire connaitre. Cependant, il existe une confusion qui est souvent faites, les NFT ne sont pas des œuvres d’art puisqu’il s’agit de certificat d’authenticité. Un NFT peut être une œuvre d’art, mais aussi une vidéo ou un tweet et elle n’existe pas seulement dans le monde de l’art comme vu dans la première partie. Cependant, c’est dans ce domaine que les NFT font le plus parlé, et comme tout phénomène plus il va être connu plus il va y avoir des controverses, notamment lorsqu’il a beaucoup d’argent en jeu.  Des œuvres d’artistes parfois totalement inconnus, ont des prix qui rivalisent avec ceux des œuvres d’art traditionnelle physique et mondialement connue. Dans ce domaine, la plupart des investisseurs et des propriétaires de NFT **ne les achètent pas pour l’art en lui-même mais plutôt pour l’investissement financier**[@noauthor_art_2022]. Ils l’achètent pour la sécurité et pour le côté unique de l’œuvre. L’avantage de posséder une œuvre d’art en NFT est que cette dernière peut être consultée n’importe où dans le monde par son propriétaire. Pour ce qui est des œuvres d’art classiques, pour les garder en bon état, c’est un travail quotidien et il existe un risque de destruction, ce qui n’est pas le cas pour les œuvres d’art numérique. Les NFT sont certes, très différents des œuvres d’art classiques, mais ces dernières sont la représentation et l’intérêt d’un art moderne. L’art numérique n’est pas nouveau mais avec l’apparition de ces jetons, les œuvres d’art numériques qui sont reproductibles, ne peuvent plus l’être car il existe ces certificats qui garantissent le fait que l’œuvre soit unique et qu’elle ne peut être reproduite.  
+
+De plus ce qui est intéressant pour les artistes numériques est que contrairement aux artistes traditionnels, ils peuvent vendre leur travail en direct avec l’acheteur potentiel, ce qui leur donne une grande liberté. Si l’acheteur acquière une collection de NFT, il peut choisir de la « partager » en créant une galerie virtuelle qui peut être consultée de partout et à tout moment par n’importe qui. **Les NFT peuvent permettre de populariser l’art numérique et aussi l’art en général.** La facilité d’accès, d’achat et de vente permet de toucher un public plus large que celui de l’art classique. L’art classique est vu par certains comme ennuyeux et dépassé, l’art numérique permet de toucher une nouvelle partie de la population plus jeune ou simplement des personnes qui ont une mauvaise image des musées ou des expositions. L’art est devenu accessible à tous. L’expérience acheteur et l’expérience vendeur sont totalement différentes de celle de l’art moderne, cette facilité de mise en relation est aussi ce qui a permis aux NFT de se développer aussi rapidement. Les NFT s’achètent via des plateformes en ligne, il suffit juste d’avoir une connexion internet et un ordinateur ou même un smartphone. Tandis que pour pouvoir acheter une œuvre d’art classique il faut passer par un intermédiaire. Il est possible d’acquérir des œuvres classiques en passant par une galerie d’art physique ou encore lors d’une vente aux enchères, dans ces deux cas il faut se déplacer ou avoir une personne qui se déplacement physique à l’endroit de la vente.  
+
+Malheureusement **comme dans tout domaine lucratif il existe des dérives.** Les NFT sont encore récents et la réglementation autour de ces derniers est encore en cours de modification. L’art traditionnel est aujourd’hui bien mieux réglementé que l’art NFT. Bien que toutes les transactions effectuées dans la blockchain soient enregistrées, il reste encore difficile de vérifier l’identité du vendeur et de l’acheteur. Les NFT sont parfois liées à des activités illégales comme **le blanchiment d’argent** [@noauthor_art_2022]. Les réglementations par rapport à ce domaine sont donc encore en cours de modifications afin de trouver des solutions pour éviter ces activités illégales, qui peuvent ternir l’image des NFT. 
+
+Les NFT se font une place aussi dans le monde physique, on retrouve aujourd’hui des marques qui les utilisent pour la fidélisation ou pour améliorer l’expérience client. Par exemple la chaîne de café américaine, Starbucks, a créé une série d’œuvres limitées en NFT afin de **récompenser la fidélité de certains de ses clients.** 
+
+
+## Conclusion
+
+Les NFT sont des jetons numériques qui servent de certificat d’authentification d’un objet physique ou non, d’une vidéo ou encore d’un dessin. Les NFT sont apparus en 2021, ils sont donc très récents et ils ne sont pas encore poussés au maximum de leur possibilité. Pour le moment, les NFT sont vu comme des investissements financiers sûr grâce à leur chiffrement de donnée complexe. Ils se sont pour le moment fait une place importante dans le monde de l’art. Contrairement à l’art classique, les NFT sont accessibles facilement, il suffit d’avoir une connexion internet, ils permettent de rendre accessible de monde de l’art et de mettre en lumière l’art numérique. Les NFT intriguent car certaines œuvres d’art ce sont vendues à des prix très élevés, en 1 an seulement il s’est échangé pour 17 milliards de dollars de NFT. Ils deviennent un incontournable sur le marché. Ils sont utilisés désormais dans le monde physique, des marques comme Starbucks ou encore l’entreprise française Décathlon, les utilisent aujourd’hui pour améliorer leurs expériences clients [@noauthor_logistique_2023]. 
+
+\newpage
+
+## Bibliographie
+
